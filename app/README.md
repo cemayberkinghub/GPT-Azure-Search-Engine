@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```bash
 cd app
-streamlit run main.py
+streamlit run 01-Main_Page.py
 ```
 
 ## To Deploy in Azure Web App Service
